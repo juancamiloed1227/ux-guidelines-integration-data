@@ -1,4 +1,4 @@
-# UX Design Guidelines for GenAI Solutions - Research Data
+# UX-GenAI Practice Validation - Research Data
 
 ## Overview
 
@@ -6,7 +6,7 @@ This repository contains the original datasets and analysis scripts for the rese
 
 ## Study Description
 
-This research validates a practice for integrating User Experience (UX) design guidelines into the requirements engineering phase of generative AI-based solutions in educational environments. The study employed a between-subjects experimental design comparing two groups of participants.
+This research validates a practice designed to systematically integrate User Experience (UX) design guidelines into the requirements engineering phase of generative AI-based solutions. The validation study employed a between-subjects experimental design comparing the effectiveness of the proposed UX-GenAI practice against conventional development approaches in educational environments.
 
 ## Repository Contents
 
